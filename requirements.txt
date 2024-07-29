@@ -1,0 +1,6 @@
+langchain_openai
+langchain_community
+pdfplumber
+spacy
+numpy
+python-dotenv
